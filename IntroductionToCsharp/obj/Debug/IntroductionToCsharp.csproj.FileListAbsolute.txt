@@ -1,0 +1,7 @@
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe.config
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.pdb
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csprojResolveAssemblyReference.cache
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.exe
+D:\Project Works\Csharp\Workspace\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.pdb
